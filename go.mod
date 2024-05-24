@@ -1,4 +1,5 @@
 module github.com/mysteriumnetwork/node
+module github.com/mysteriumnetwork/node
 
 go 1.19
 
